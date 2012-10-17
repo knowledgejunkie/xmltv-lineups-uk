@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="xmltv-lineups.xsl" type="application/xml"?>
 <xmltv-lineups>
-  <xmltv-lineup id="freesatfromsky" modified="2012-10-16T12:45:34 +0100" source-info-url="http://en.wikipedia.org/wiki/List of channels on Sky" generator-info-name="XMLTV Lineup Generator for the UK and Ireland" generator-info-url="https://github.com/knowledgejunkie/xmltv-lineup-generator-uk">
+  <xmltv-lineup id="freesatfromsky" modified="2012-10-17T20:33:27 +0100" source-info-url="http://en.wikipedia.org/wiki/List of channels on Sky" generator-info-name="XMLTV Lineup Generator for the UK and Ireland" generator-info-url="https://github.com/knowledgejunkie/xmltv-lineup-generator-uk">
     <type>STB</type>
     <display-name lang="en-GB">Sky (Freesat from Sky)</display-name>
     <availability area="country">England</availability>
@@ -1782,24 +1782,6 @@
       </stb-channel>
     </lineup-entry>
     <lineup-entry>
-      <preset>193</preset>
-      <section>Entertainment</section>
-      <package type="basic">Free-to-air</package>
-      <station type="TV">
-        <name lang="en-GB">HiTV</name>
-        <short-name lang="en-GB">HiTV</short-name>
-        <logo url="http://www.lyngsat-logo.com/logo/tv/hh/hi_tv_uk.jpg" height="99" width="132"/>
-        <commercial-free>false</commercial-free>
-        <video>
-          <format>SDTV</format>
-          <aspect-ratio>16:9</aspect-ratio>
-        </video>
-      </station>
-      <stb-channel>
-        <stb-preset>193</stb-preset>
-      </stb-channel>
-    </lineup-entry>
-    <lineup-entry>
       <preset>198</preset>
       <section>Entertainment</section>
       <package type="basic">Free-to-air</package>
@@ -2651,7 +2633,7 @@
         <commercial-free>false</commercial-free>
         <video>
           <format>SDTV</format>
-          <aspect-ratio>4:3</aspect-ratio>
+          <aspect-ratio>16:9</aspect-ratio>
         </video>
       </station>
       <stb-channel>
@@ -2668,7 +2650,7 @@
         <commercial-free>false</commercial-free>
         <video>
           <format>SDTV</format>
-          <aspect-ratio>4:3</aspect-ratio>
+          <aspect-ratio>16:9</aspect-ratio>
         </video>
       </station>
       <stb-channel>
@@ -4697,24 +4679,6 @@
       </station>
       <stb-channel>
         <stb-preset>849</stb-preset>
-      </stb-channel>
-    </lineup-entry>
-    <lineup-entry>
-      <preset>851</preset>
-      <section>International</section>
-      <package type="basic">Free-to-air</package>
-      <station type="TV">
-        <name lang="en-GB">9XM</name>
-        <short-name lang="en-GB">9XM</short-name>
-        <logo url="http://www.lyngsat-logo.com/logo/tv/num/9x_music_uk.jpg" height="99" width="132"/>
-        <commercial-free>false</commercial-free>
-        <video>
-          <format>SDTV</format>
-          <aspect-ratio>4:3</aspect-ratio>
-        </video>
-      </station>
-      <stb-channel>
-        <stb-preset>851</stb-preset>
       </stb-channel>
     </lineup-entry>
     <lineup-entry>
