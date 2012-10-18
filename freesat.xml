@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="xmltv-lineups.xsl" type="application/xml"?>
 <xmltv-lineups>
-  <xmltv-lineup id="freesat" modified="2012-10-18T15:18:32 +0100" source-info-url="http://en.wikipedia.org/wiki/List_of_channels_on_Freesat" generator-info-name="XMLTV Lineup Generator for the UK and Ireland" generator-info-url="https://github.com/knowledgejunkie/xmltv-lineup-generator-uk">
+  <xmltv-lineup id="freesat" modified="2012-10-18T17:14:49 +0100" source-info-url="http://en.wikipedia.org/wiki/List_of_channels_on_Freesat" generator-info-name="XMLTV Lineup Generator for the UK and Ireland" generator-info-url="https://github.com/knowledgejunkie/xmltv-lineup-generator-uk">
     <type>DTV</type>
     <display-name lang="en-GB">Freesat</display-name>
     <availability area="country">England</availability>
@@ -417,7 +417,7 @@
       </station>
       <dvb-channel>
         <original-network-id>2</original-network-id>
-        <service-id>10355</service-id>
+        <service-id>6471</service-id>
         <lcn>101</lcn>
         <service-name>BBC 1 NE &amp; C</service-name>
         <encrypted>false</encrypted>
@@ -943,7 +943,7 @@
       </station>
       <dvb-channel>
         <original-network-id>2</original-network-id>
-        <service-id>6319</service-id>
+        <service-id>10351</service-id>
         <lcn>106</lcn>
         <service-name>BBC THREE</service-name>
         <encrypted>false</encrypted>
@@ -965,7 +965,7 @@
       </station>
       <dvb-channel>
         <original-network-id>2</original-network-id>
-        <service-id>6416</service-id>
+        <service-id>6316</service-id>
         <lcn>107</lcn>
         <service-name>BBC FOUR</service-name>
         <encrypted>false</encrypted>
@@ -987,7 +987,7 @@
       </station>
       <dvb-channel>
         <original-network-id>2</original-network-id>
-        <service-id>10357</service-id>
+        <service-id>6423</service-id>
         <lcn>110</lcn>
         <service-name>BBC ALBA</service-name>
         <encrypted>false</encrypted>
@@ -1855,7 +1855,7 @@
       </station>
       <dvb-channel>
         <original-network-id>2</original-network-id>
-        <service-id>6405</service-id>
+        <service-id>10358</service-id>
         <lcn>200</lcn>
         <service-name>BBC NEWS</service-name>
         <encrypted>false</encrypted>
@@ -2580,8 +2580,9 @@
       </station>
       <dvb-channel>
         <original-network-id>2</original-network-id>
-        <service-id>0</service-id>
+        <service-id>55111</service-id>
         <lcn>516</lcn>
+        <service-name>Heart TV</service-name>
         <encrypted>false</encrypted>
       </dvb-channel>
     </lineup-entry>
@@ -2600,8 +2601,9 @@
       </station>
       <dvb-channel>
         <original-network-id>2</original-network-id>
-        <service-id>0</service-id>
+        <service-id>55112</service-id>
         <lcn>517</lcn>
+        <service-name>Capital TV</service-name>
         <encrypted>false</encrypted>
       </dvb-channel>
     </lineup-entry>
@@ -2621,7 +2623,7 @@
       </station>
       <dvb-channel>
         <original-network-id>2</original-network-id>
-        <service-id>6317</service-id>
+        <service-id>10352</service-id>
         <lcn>600</lcn>
         <service-name>CBBC Channel</service-name>
         <encrypted>false</encrypted>
@@ -2643,7 +2645,7 @@
       </station>
       <dvb-channel>
         <original-network-id>2</original-network-id>
-        <service-id>6418</service-id>
+        <service-id>6318</service-id>
         <lcn>601</lcn>
         <service-name>CBeebies</service-name>
         <encrypted>false</encrypted>
@@ -2973,8 +2975,9 @@
       </station>
       <dvb-channel>
         <original-network-id>2</original-network-id>
-        <service-id>0</service-id>
+        <service-id>51033</service-id>
         <lcn>696</lcn>
+        <service-name>TBN Europe</service-name>
         <encrypted>false</encrypted>
       </dvb-channel>
     </lineup-entry>
@@ -4317,7 +4320,7 @@
       </station>
       <dvb-channel>
         <original-network-id>2</original-network-id>
-        <service-id>10355</service-id>
+        <service-id>6471</service-id>
         <lcn>956</lcn>
         <service-name>BBC 1 NE &amp; C</service-name>
         <encrypted>false</encrypted>
